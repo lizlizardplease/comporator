@@ -1,0 +1,4 @@
+files/edac.py plagiat1/edac.py
+files/log.py plagiat2/log.py
+files/log.py files/log.py
+
